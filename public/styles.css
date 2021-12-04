@@ -1,0 +1,19 @@
+img {
+    width: 50%;
+}
+
+.center-content{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.nav-bar{
+    display: flex;
+    align-items: flex-end;
+    justify-content: right;
+}
+
+.smaller-p{
+    width: 60%;
+}
